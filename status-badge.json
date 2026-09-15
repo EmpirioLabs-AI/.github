@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "Live status",
-  "message": "All systems operational",
-  "color": "brightgreen",
+  "message": "Major system outage",
+  "color": "red",
   "cacheSeconds": 120
 }
