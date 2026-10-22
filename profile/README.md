@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://empiriolabs.ai" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/EmpirioLabs-ai/assets/main/logo-white.png" alt="Empirio Labs AI" width="280" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-white.png" />
+    <img src="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-dark.png" alt="EmpirioLabs AI" width="280" />
+  </picture>
 </a>
 
 ### Specialized AI model hosting for open, proprietary, and custom stacks
@@ -18,7 +21,7 @@ Hosted open models, optimized proprietary endpoints, and turnkey deployment to r
   <a href="https://discord.gg/bM52azW4ZD" target="_blank" rel="noopener"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/company/empirio-labs-ai" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/empiriolabsai" target="_blank" rel="noopener"><img alt="X" src="https://img.shields.io/badge/X-@empiriolabsai-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://github.com/EmpirioLabs-ai" target="_blank" rel="noopener"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EmpirioLabs--ai-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/EmpirioLabs-AI" target="_blank" rel="noopener"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EmpirioLabs--AI-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://poe.com/profile/empiriolabsai" target="_blank" rel="noopener"><img alt="Poe" src="https://img.shields.io/badge/Poe-Bots-7C3AED?style=flat-square"></a>
 </p>
 
@@ -26,15 +29,17 @@ Hosted open models, optimized proprietary endpoints, and turnkey deployment to r
 
 ---
 
-## What Empirio Labs does
+## What EmpirioLabs AI does
 
-Empirio Labs is a specialized AI inference and integration provider.
+EmpirioLabs AI is a specialized AI inference and integration provider.
 
-- **Open-source model hosting:** Select open-source models deployed on our own GPU infrastructure with extended context, higher resolution support, and tuned performance.
+- **Open-source model hosting:** Select open-source models hosted on GPU infrastructure we manage, with their full context window, multimodal inputs, and tuned performance.
 - **Optimized proprietary endpoints:** Commercial APIs and partner endpoints integrated behind our own formatting and behavior layer, exposed as ready-to-use chat and API endpoints.
-- **Deployment and consulting for custom models:** Packaging, deployment, and operations for companies and model builders shipping their models to real users, including distribution.
+- **Custom AI work and dedicated deployments:** Custom AI systems and dedicated deployments, from model packaging and integration to managed operation for end users.
+- **GPU Cloud:** Managed GPU instances on demand for model serving, notebooks, or your own Docker image.
+- **Hosted AI agents:** A private OpenClaw or Hermes agent runtime that runs on EmpirioLabs AI models.
 
-## Why teams choose Empirio Labs
+## Why teams choose EmpirioLabs AI
 
 - **Competitive pricing.** Models on our infrastructure can run up to 90% cheaper than other inference providers, with select proprietary endpoints up to 77% under standard rates. Fixed per-message pricing is available on select models.
 - **Pay-as-you-go, not locked plans.** Usage is metered through our endpoints, even for upstream providers that otherwise require monthly subscriptions.
@@ -72,6 +77,6 @@ Empirio Labs is a specialized AI inference and integration provider.
 
 <div align="center">
 
-Seattle, WA &nbsp;·&nbsp; © 2026 EmpirioLabs.ai LLC — All rights reserved.
+Seattle, WA &nbsp;·&nbsp; © 2026 EmpirioLabs.ai LLC. All rights reserved.
 
 </div>
