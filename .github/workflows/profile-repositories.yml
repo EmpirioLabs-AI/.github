@@ -1,0 +1,40 @@
+name: Profile repositories
+
+# Keeps the repository table in profile/README.md equal to the organization's
+# public repositories and their descriptions (scripts/render_profile.py).
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-repositories
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - name: Render the repository table
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/render_profile.py
+
+      - name: Commit a changed table
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- profile/README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Profile: refresh the repository table" -- profile/README.md
+          git push -q origin HEAD:main

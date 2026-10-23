@@ -1,76 +1,52 @@
 <div align="center">
 
-<a href="https://empiriolabs.ai" target="_blank" rel="noopener">
+<a href="https://empiriolabs.ai">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-white.png" />
-    <img src="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-dark.png" alt="EmpirioLabs AI" width="280" />
+    <img src="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-dark.png" alt="EmpirioLabs AI" width="260" />
   </picture>
 </a>
 
-### Specialized AI model hosting for open, proprietary, and custom stacks
+**Specialized AI model hosting for open, proprietary, and custom stacks**
 
-Hosted open models, optimized proprietary endpoints, and turnkey deployment to real users.
-
-<p>
-  <a href="https://empiriolabs.ai" target="_blank" rel="noopener"><img alt="Website" src="https://img.shields.io/badge/Website-empiriolabs.ai-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://docs.empiriolabs.ai/welcome" target="_blank" rel="noopener"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-Read%20the%20docs-0a66c2?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <a href="https://status.empiriolabs.ai/" target="_blank" rel="noopener"><img alt="Live status" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEmpirioLabs-AI%2F.github%2Fstatus-badge%2Fstatus-badge.json&style=for-the-badge&logo=statuspage&logoColor=white"></a>
-</p>
-
-<p>
-  <a href="https://discord.gg/bM52azW4ZD" target="_blank" rel="noopener"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/company/empirio-labs-ai" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/empiriolabsai" target="_blank" rel="noopener"><img alt="X" src="https://img.shields.io/badge/X-@empiriolabsai-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://github.com/EmpirioLabs-AI" target="_blank" rel="noopener"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EmpirioLabs--AI-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://poe.com/profile/empiriolabsai" target="_blank" rel="noopener"><img alt="Poe" src="https://img.shields.io/badge/Poe-Bots-7C3AED?style=flat-square"></a>
-</p>
+[Website](https://empiriolabs.ai) · [Documentation](https://docs.empiriolabs.ai) · [Models and pricing](https://empiriolabs.ai/models) · [Status](https://status.empiriolabs.ai) · [Discord](https://discord.gg/bM52azW4ZD)
 
 </div>
 
----
+## About
 
-## What EmpirioLabs AI does
+EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom stacks. We run open-source models on GPU infrastructure we manage, serve optimized endpoints for proprietary models, and help teams deploy their own models to real users. The catalog spans text, image, video, audio, transcription, embedding, reranking, research, and 3D models, with a browser playground, GPU Cloud instances, and hosted AI agents.
 
-EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom stacks.
+## Get started
 
-- **Open-source model hosting:** Select open-source models hosted on GPU infrastructure we manage, with their full context window, multimodal inputs, and tuned performance.
-- **Optimized proprietary endpoints:** Optimized endpoints for proprietary models, ready to use through the same chat and API endpoints.
-- **Custom AI work and dedicated deployments:** Custom AI systems and dedicated deployments, from model packaging and integration to managed operation for end users.
-- **GPU Cloud:** Managed GPU instances on demand for model serving, notebooks, or your own Docker image.
-- **Hosted AI agents:** A private OpenClaw or Hermes agent runtime that runs on EmpirioLabs AI models.
+1. Create an API key in the [dashboard](https://platform.empiriolabs.ai/dashboard/api-keys).
+2. Make your first request with the [quickstart](https://docs.empiriolabs.ai/getting-started).
+3. Connect your tools through the [integrations](https://docs.empiriolabs.ai/integrations) or the [MCP server](https://docs.empiriolabs.ai/mcp).
 
-The catalog spans text, image, video, audio, transcription, embedding, reranking, research, and 3D models, with a browser playground, pay-as-you-go pricing, and live per-model prices at <a href="https://empiriolabs.ai/models" target="_blank" rel="noopener">empiriolabs.ai/models</a>.
+## Repositories
 
-### Get started
+<!-- repositories:start -->
+| Repository | Description |
+| --- | --- |
+| [ai-sdk-empiriolabs](https://github.com/EmpirioLabs-AI/ai-sdk-empiriolabs) | EmpirioLabs AI tools for Vercel AI SDK agents: image and video generation, text to speech, transcription, generation jobs and a model finder |
+| [assets](https://github.com/EmpirioLabs-AI/assets) | Official EmpirioLabs AI logo files |
+| [cli](https://github.com/EmpirioLabs-AI/cli) | Start Claude Code, Codex CLI, Gemini CLI and other coding agents on EmpirioLabs AI models with one command |
+| [comfyui-empiriolabs](https://github.com/EmpirioLabs-AI/comfyui-empiriolabs) | EmpirioLabs AI nodes for ComfyUI: generate images and videos, chat with text and vision models, and turn text into speech |
+| [dify-plugin-empiriolabs](https://github.com/EmpirioLabs-AI/dify-plugin-empiriolabs) | EmpirioLabs AI model provider plugin for Dify |
+| [hermes-empiriolabs](https://github.com/EmpirioLabs-AI/hermes-empiriolabs) | EmpirioLabs AI plugins for Hermes Agent: a model provider for chat models, and image, video and speech backends |
+| [langchain-empiriolabs](https://github.com/EmpirioLabs-AI/langchain-empiriolabs) | LangChain integration for EmpirioLabs AI: chat models and embeddings |
+| [llm-empiriolabs](https://github.com/EmpirioLabs-AI/llm-empiriolabs) | Plugin for Simon Willison's llm CLI that adds EmpirioLabs AI models |
+| [mcp](https://github.com/EmpirioLabs-AI/mcp) | EmpirioLabs AI remote MCP server: AI models, media generation, web search, batch jobs, GPU Cloud and hosted agents as tools |
+| [n8n-nodes-empiriolabs](https://github.com/EmpirioLabs-AI/n8n-nodes-empiriolabs) | n8n community nodes for EmpirioLabs AI: chat, images, speech, transcription, video, embeddings and jobs |
+| [openclaw-provider](https://github.com/EmpirioLabs-AI/openclaw-provider) | EmpirioLabs AI provider plugin for OpenClaw: chat models with tool calling, plus image, video, speech, transcription and embeddings from the live EmpirioLabs AI catalog |
+| [openwebui-empiriolabs](https://github.com/EmpirioLabs-AI/openwebui-empiriolabs) | EmpirioLabs AI Media tool for Open WebUI: create videos, images and speech in the chat with models from the live EmpirioLabs AI catalog |
+| [skills](https://github.com/EmpirioLabs-AI/skills) | Agent skills for EmpirioLabs AI: generate images, video and speech, transcribe audio, and pick models from the live catalog in OpenClaw, Hermes Agent, Claude Code, Codex and Cursor |
+| [status](https://github.com/EmpirioLabs-AI/status) | Status page for EmpirioLabs AI |
+| [vscode-empiriolabs](https://github.com/EmpirioLabs-AI/vscode-empiriolabs) | EmpirioLabs AI models in VS Code Copilot Chat: chat, tools and vision with models from the live EmpirioLabs AI catalog |
+<!-- repositories:end -->
 
-1. **Get an API key:** create a project-scoped key in your dashboard.
-2. **Read the quickstart:** follow the <a href="https://docs.empiriolabs.ai/getting-started" target="_blank" rel="noopener">Getting Started</a> guide to make your first authenticated request.
-3. **Explore the reference:** use the <a href="https://docs.empiriolabs.ai/api-reference" target="_blank" rel="noopener">API Reference</a> to inspect schemas, examples, and responses.
+## Contact
 
-## Resources
+[support@empiriolabs.ai](mailto:support@empiriolabs.ai) · [LinkedIn](https://www.linkedin.com/company/empirio-labs-ai) · [X](https://x.com/empiriolabsai) · [Poe](https://poe.com/profile/empiriolabsai)
 
-| | |
-|---|---|
-| **Website** | <a href="https://empiriolabs.ai" target="_blank" rel="noopener">empiriolabs.ai</a> |
-| **Documentation** | <a href="https://docs.empiriolabs.ai/welcome" target="_blank" rel="noopener">docs.empiriolabs.ai</a> |
-| **API Reference** | <a href="https://docs.empiriolabs.ai/api-reference" target="_blank" rel="noopener">docs.empiriolabs.ai/api-reference</a> |
-| **System Status** | <a href="https://status.empiriolabs.ai/" target="_blank" rel="noopener">status.empiriolabs.ai</a> |
-| **Blog** | <a href="https://empiriolabs.ai/blog" target="_blank" rel="noopener">empiriolabs.ai/blog</a> |
-| **Changelog** | <a href="https://docs.empiriolabs.ai/documentation/changelog" target="_blank" rel="noopener">docs.empiriolabs.ai/documentation/changelog</a> |
-| **Support** | <a href="mailto:support@empiriolabs.ai">support@empiriolabs.ai</a> |
-
-## Connect
-
-- <a href="https://discord.gg/bM52azW4ZD" target="_blank" rel="noopener">Discord</a>
-- <a href="https://www.linkedin.com/company/empirio-labs-ai" target="_blank" rel="noopener">LinkedIn</a>
-- <a href="https://x.com/empiriolabsai" target="_blank" rel="noopener">X</a>
-- <a href="https://poe.com/profile/empiriolabsai" target="_blank" rel="noopener">Poe</a>
-- <a href="https://empiriolabs.ai/contact-us" target="_blank" rel="noopener">Contact us</a>
-
----
-
-<div align="center">
-
-Seattle, WA &nbsp;·&nbsp; © 2026 EmpirioLabs.ai LLC. All rights reserved.
-
-</div>
+<sub>© 2026 EmpirioLabs.ai LLC · Seattle, WA</sub>
