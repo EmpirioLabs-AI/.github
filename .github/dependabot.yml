@@ -1,0 +1,8 @@
+version: 2
+updates:
+  # Keeps the pinned action SHAs in .github/workflows current. No cooldown: a fix is
+  # installable the day it is released (supply-chain standard, 2026-10-22).
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
