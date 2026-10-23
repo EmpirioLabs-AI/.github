@@ -1,17 +1,32 @@
 <div align="center">
 
-<a href="https://empiriolabs.ai">
+<a href="https://empiriolabs.ai" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-white.png" />
-    <img src="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-dark.png" alt="EmpirioLabs AI" width="260" />
+    <img src="https://raw.githubusercontent.com/EmpirioLabs-AI/assets/main/logo-dark.png" alt="EmpirioLabs AI" width="280" />
   </picture>
 </a>
 
-**Specialized AI model hosting for open, proprietary, and custom stacks**
+### Specialized AI model hosting for open, proprietary, and custom stacks
 
-[Website](https://empiriolabs.ai) · [Documentation](https://docs.empiriolabs.ai) · [Models and pricing](https://empiriolabs.ai/models) · [Status](https://status.empiriolabs.ai) · [Discord](https://discord.gg/bM52azW4ZD)
+Hosted open models, optimized proprietary endpoints, and turnkey deployment to real users.
+
+<p>
+  <a href="https://empiriolabs.ai" target="_blank" rel="noopener"><img alt="Website" src="https://img.shields.io/badge/Website-empiriolabs.ai-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://docs.empiriolabs.ai/welcome" target="_blank" rel="noopener"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-Read%20the%20docs-0a66c2?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="https://status.empiriolabs.ai/" target="_blank" rel="noopener"><img alt="Live status" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEmpirioLabs-AI%2F.github%2Fstatus-badge%2Fstatus-badge.json&style=for-the-badge&logo=statuspage&logoColor=white"></a>
+</p>
+
+<p>
+  <a href="https://discord.gg/bM52azW4ZD" target="_blank" rel="noopener"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/empirio-labs-ai" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/empiriolabsai" target="_blank" rel="noopener"><img alt="X" src="https://img.shields.io/badge/X-@empiriolabsai-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://github.com/EmpirioLabs-AI" target="_blank" rel="noopener"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EmpirioLabs--AI-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 
 </div>
+
+---
 
 ## About
 
@@ -47,6 +62,6 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 
 ## Contact
 
-[support@empiriolabs.ai](mailto:support@empiriolabs.ai) · [LinkedIn](https://www.linkedin.com/company/empirio-labs-ai) · [X](https://x.com/empiriolabsai) · [Poe](https://poe.com/profile/empiriolabsai)
+Email [support@empiriolabs.ai](mailto:support@empiriolabs.ai) or use the [contact form](https://empiriolabs.ai/contact-us).
 
 <sub>© 2026 EmpirioLabs.ai LLC · Seattle, WA</sub>
