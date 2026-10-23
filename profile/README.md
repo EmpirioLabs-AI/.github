@@ -9,12 +9,12 @@
 
 ### Specialized AI model hosting for open, proprietary, and custom stacks
 
-Hosted open models, optimized proprietary endpoints, and turnkey deployment to real users: all behind a simple interface.
+Hosted open models, optimized proprietary endpoints, and turnkey deployment to real users.
 
 <p>
   <a href="https://empiriolabs.ai" target="_blank" rel="noopener"><img alt="Website" src="https://img.shields.io/badge/Website-empiriolabs.ai-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://docs.empiriolabs.ai/welcome" target="_blank" rel="noopener"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-Read%20the%20docs-0a66c2?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <a href="https://status.empiriolabs.ai/" target="_blank" rel="noopener"><img alt="Live status" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEmpirioLabs-ai%2F.github%2Fstatus-badge%2Fstatus-badge.json&style=for-the-badge&logo=statuspage&logoColor=white"></a>
+  <a href="https://status.empiriolabs.ai/" target="_blank" rel="noopener"><img alt="Live status" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FEmpirioLabs-AI%2F.github%2Fstatus-badge%2Fstatus-badge.json&style=for-the-badge&logo=statuspage&logoColor=white"></a>
 </p>
 
 <p>
@@ -31,21 +31,15 @@ Hosted open models, optimized proprietary endpoints, and turnkey deployment to r
 
 ## What EmpirioLabs AI does
 
-EmpirioLabs AI is a specialized AI inference and integration provider.
+EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom stacks.
 
 - **Open-source model hosting:** Select open-source models hosted on GPU infrastructure we manage, with their full context window, multimodal inputs, and tuned performance.
-- **Optimized proprietary endpoints:** Commercial APIs and partner endpoints integrated behind our own formatting and behavior layer, exposed as ready-to-use chat and API endpoints.
+- **Optimized proprietary endpoints:** Optimized endpoints for proprietary models, ready to use through the same chat and API endpoints.
 - **Custom AI work and dedicated deployments:** Custom AI systems and dedicated deployments, from model packaging and integration to managed operation for end users.
 - **GPU Cloud:** Managed GPU instances on demand for model serving, notebooks, or your own Docker image.
 - **Hosted AI agents:** A private OpenClaw or Hermes agent runtime that runs on EmpirioLabs AI models.
 
-## Why teams choose EmpirioLabs AI
-
-- **Competitive pricing.** Models on our infrastructure can run up to 90% cheaper than other inference providers, with select proprietary endpoints up to 77% under standard rates. Fixed per-message pricing is available on select models.
-- **Pay-as-you-go, not locked plans.** Usage is metered through our endpoints, even for upstream providers that otherwise require monthly subscriptions.
-- **Higher rate limits than going direct.** Build without the restrictive limits imposed by upstream providers.
-- **Day-0 model support.** New models and capabilities roll out quickly on our stack with routing, pricing, and usage limits wired up from day one.
-- **Standard, specialty, and tuned models.** Popular models alongside open-source and proprietary endpoints unavailable elsewhere, with the full model settings other providers lock away.
+The catalog spans text, image, video, audio, transcription, embedding, reranking, research, and 3D models, with a browser playground, pay-as-you-go pricing, and live per-model prices at <a href="https://empiriolabs.ai/models" target="_blank" rel="noopener">empiriolabs.ai/models</a>.
 
 ### Get started
 
