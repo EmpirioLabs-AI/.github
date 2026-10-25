@@ -50,6 +50,7 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 | [dify-plugin-empiriolabs](https://github.com/EmpirioLabs-AI/dify-plugin-empiriolabs) | EmpirioLabs AI model provider plugin for Dify |
 | [hermes-empiriolabs](https://github.com/EmpirioLabs-AI/hermes-empiriolabs) | EmpirioLabs AI plugins for Hermes Agent: a model provider for chat models, and image, video and speech backends |
 | [langchain-empiriolabs](https://github.com/EmpirioLabs-AI/langchain-empiriolabs) | LangChain integration for EmpirioLabs AI: chat models and embeddings |
+| [langchain-empiriolabs-js](https://github.com/EmpirioLabs-AI/langchain-empiriolabs-js) | LangChain.js integration for EmpirioLabs AI: chat models and embeddings |
 | [llm-empiriolabs](https://github.com/EmpirioLabs-AI/llm-empiriolabs) | Plugin for Simon Willison's llm CLI that adds EmpirioLabs AI models |
 | [mcp](https://github.com/EmpirioLabs-AI/mcp) | EmpirioLabs AI remote MCP server: AI models, media generation, web search, batch jobs, GPU Cloud and hosted agents as tools |
 | [n8n-nodes-empiriolabs](https://github.com/EmpirioLabs-AI/n8n-nodes-empiriolabs) | n8n community nodes for EmpirioLabs AI: chat, images, speech, transcription, video, embeddings and jobs |
