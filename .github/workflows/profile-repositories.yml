@@ -2,10 +2,12 @@ name: Profile repositories
 
 # Keeps the repository table in profile/README.md equal to the organization's
 # public repositories and their descriptions (scripts/render_profile.py).
+# Runs every hour, so a new repository or a changed description shows on the
+# organization page within the hour; run it by hand to refresh at once.
 
 on:
   schedule:
-    - cron: "23 6 * * *"
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:
