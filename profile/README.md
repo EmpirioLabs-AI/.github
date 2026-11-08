@@ -49,7 +49,7 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 | [comfyui-empiriolabs](https://github.com/EmpirioLabs-AI/comfyui-empiriolabs) | EmpirioLabs AI nodes for ComfyUI: generate images and videos, chat with text and vision models, and turn text into speech |
 | [dify-plugin-empiriolabs](https://github.com/EmpirioLabs-AI/dify-plugin-empiriolabs) | EmpirioLabs AI model provider plugin for Dify |
 | [empiriolabs-action](https://github.com/EmpirioLabs-AI/empiriolabs-action) | GitHub Action for EmpirioLabs AI: send a prompt to an EmpirioLabs AI model from a workflow and use the reply in later steps |
-| [empiriolabs-chatbot](https://github.com/EmpirioLabs-AI/empiriolabs-chatbot) | A streaming chatbot template for EmpirioLabs AI models, built with Next.js and the AI SDK. Deploy to Vercel or Railway |
+| [empiriolabs-agent](https://github.com/EmpirioLabs-AI/empiriolabs-agent) | An AI agent template for EmpirioLabs AI: chat with any catalog model and use every EmpirioLabs AI tool through MCP. Next.js and the AI SDK, deploy to Vercel or Railway |
 | [hermes-empiriolabs](https://github.com/EmpirioLabs-AI/hermes-empiriolabs) | EmpirioLabs AI plugins for Hermes Agent: a model provider for chat models, and image, video and speech backends |
 | [langchain-empiriolabs](https://github.com/EmpirioLabs-AI/langchain-empiriolabs) | LangChain integration for EmpirioLabs AI: chat models and embeddings |
 | [langchain-empiriolabs-js](https://github.com/EmpirioLabs-AI/langchain-empiriolabs-js) | LangChain.js integration for EmpirioLabs AI: chat models and embeddings |
