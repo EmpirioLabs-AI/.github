@@ -48,6 +48,8 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 | [cli](https://github.com/EmpirioLabs-AI/cli) | Start Claude Code, Codex CLI, Gemini CLI and other coding agents on EmpirioLabs AI models with one command |
 | [comfyui-empiriolabs](https://github.com/EmpirioLabs-AI/comfyui-empiriolabs) | EmpirioLabs AI nodes for ComfyUI: generate images and videos, chat with text and vision models, and turn text into speech |
 | [dify-plugin-empiriolabs](https://github.com/EmpirioLabs-AI/dify-plugin-empiriolabs) | EmpirioLabs AI model provider plugin for Dify |
+| [empiriolabs-action](https://github.com/EmpirioLabs-AI/empiriolabs-action) | GitHub Action for EmpirioLabs AI: send a prompt to an EmpirioLabs AI model from a workflow and use the reply in later steps |
+| [empiriolabs-chatbot](https://github.com/EmpirioLabs-AI/empiriolabs-chatbot) | A streaming chatbot template for EmpirioLabs AI models, built with Next.js and the AI SDK. Deploy to Vercel or Railway |
 | [hermes-empiriolabs](https://github.com/EmpirioLabs-AI/hermes-empiriolabs) | EmpirioLabs AI plugins for Hermes Agent: a model provider for chat models, and image, video and speech backends |
 | [langchain-empiriolabs](https://github.com/EmpirioLabs-AI/langchain-empiriolabs) | LangChain integration for EmpirioLabs AI: chat models and embeddings |
 | [langchain-empiriolabs-js](https://github.com/EmpirioLabs-AI/langchain-empiriolabs-js) | LangChain.js integration for EmpirioLabs AI: chat models and embeddings |
@@ -59,6 +61,7 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 | [skills](https://github.com/EmpirioLabs-AI/skills) | Agent skills for EmpirioLabs AI: generate images, video and speech, transcribe audio, and pick models from the live catalog in OpenClaw, Hermes Agent, Claude Code, Codex and Cursor |
 | [status](https://github.com/EmpirioLabs-AI/status) | Status page for EmpirioLabs AI |
 | [vscode-empiriolabs](https://github.com/EmpirioLabs-AI/vscode-empiriolabs) | EmpirioLabs AI models in VS Code Copilot Chat: chat, tools and vision with models from the live EmpirioLabs AI catalog |
+| [wordpress-ai-provider-empiriolabs](https://github.com/EmpirioLabs-AI/wordpress-ai-provider-empiriolabs) | AI Provider for EmpirioLabs AI: adds EmpirioLabs AI text, image and embedding models to the WordPress AI Client |
 <!-- repositories:end -->
 
 ## Contact
