@@ -61,7 +61,7 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 | [skills](https://github.com/EmpirioLabs-AI/skills) | Agent skills for EmpirioLabs AI: generate images, video and speech, transcribe audio, and pick models from the live catalog in OpenClaw, Hermes Agent, Claude Code, Codex and Cursor |
 | [status](https://github.com/EmpirioLabs-AI/status) | Status page for EmpirioLabs AI |
 | [vscode-empiriolabs](https://github.com/EmpirioLabs-AI/vscode-empiriolabs) | EmpirioLabs AI models in VS Code Copilot Chat: chat, tools and vision with models from the live EmpirioLabs AI catalog |
-| [wordpress-ai-provider-empiriolabs](https://github.com/EmpirioLabs-AI/wordpress-ai-provider-empiriolabs) | AI Provider for EmpirioLabs AI: adds EmpirioLabs AI text, image and embedding models to the WordPress AI Client |
+| [wordpress-ai-provider-empiriolabs](https://github.com/EmpirioLabs-AI/wordpress-ai-provider-empiriolabs) | EmpirioLabs AI Provider: adds EmpirioLabs AI text, image and embedding models to the WordPress AI Client |
 <!-- repositories:end -->
 
 ## Contact
