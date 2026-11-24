@@ -61,6 +61,7 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 | [openwebui-empiriolabs](https://github.com/EmpirioLabs-AI/openwebui-empiriolabs) | EmpirioLabs AI Media tool for Open WebUI: create videos, images and speech in the chat with models from the live EmpirioLabs AI catalog |
 | [skills](https://github.com/EmpirioLabs-AI/skills) | Agent skills for EmpirioLabs AI: generate images, video and speech, transcribe audio, and pick models from the live catalog in OpenClaw, Hermes Agent, Claude Code, Codex and Cursor |
 | [status](https://github.com/EmpirioLabs-AI/status) | Status page for EmpirioLabs AI |
+| [verifiable-inference](https://github.com/EmpirioLabs-AI/verifiable-inference) | Check which model answered and that EmpirioLabs served it: model fingerprints and signed receipts, checked with the Python standard library |
 | [vscode-empiriolabs](https://github.com/EmpirioLabs-AI/vscode-empiriolabs) | EmpirioLabs AI models in VS Code Copilot Chat: chat, tools and vision with models from the live EmpirioLabs AI catalog |
 | [wordpress-ai-provider-empiriolabs](https://github.com/EmpirioLabs-AI/wordpress-ai-provider-empiriolabs) | EmpirioLabs AI Provider: adds EmpirioLabs AI text, image, speech, video and embedding models to the WordPress AI Client |
 <!-- repositories:end -->
