@@ -56,6 +56,7 @@ EmpirioLabs AI is specialized AI model hosting for open, proprietary, and custom
 | [langchain-empiriolabs-js](https://github.com/EmpirioLabs-AI/langchain-empiriolabs-js) | LangChain.js integration for EmpirioLabs AI: chat models and embeddings |
 | [llm-empiriolabs](https://github.com/EmpirioLabs-AI/llm-empiriolabs) | Plugin for Simon Willison's llm CLI that adds EmpirioLabs AI models |
 | [mcp](https://github.com/EmpirioLabs-AI/mcp) | EmpirioLabs AI remote MCP server: AI models, media generation, web search, batch jobs, GPU Cloud and hosted agents as tools |
+| [modelscope-mirror](https://github.com/EmpirioLabs-AI/modelscope-mirror) | Keeps EmpirioLabs AI's open models and datasets on ModelScope identical to their Hugging Face originals |
 | [n8n-nodes-empiriolabs](https://github.com/EmpirioLabs-AI/n8n-nodes-empiriolabs) | n8n community nodes for EmpirioLabs AI: chat, images, speech, transcription, video, embeddings and jobs |
 | [openclaw-provider](https://github.com/EmpirioLabs-AI/openclaw-provider) | EmpirioLabs AI provider plugin for OpenClaw: chat models with tool calling, plus image, video, speech, transcription and embeddings from the live EmpirioLabs AI catalog |
 | [openwebui-empiriolabs](https://github.com/EmpirioLabs-AI/openwebui-empiriolabs) | EmpirioLabs AI Media tool for Open WebUI: create videos, images and speech in the chat with models from the live EmpirioLabs AI catalog |
